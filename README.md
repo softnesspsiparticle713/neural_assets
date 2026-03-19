@@ -12,6 +12,27 @@ To reproduce the results of neural assets on the MoVi dataset, please follow the
     - MoVi dataset: https://console.cloud.google.com/storage/browser/kubric-public/tfds
 3. Run the training script `train_movi.py` and inference script `inference_movi.py`. Note that you may need to modify the arguments in these scripts depending on your setup.
 
+
+## Citing this work
+If you use this work, please cite the original paper
+
+```
+@inproceedings{neuralassets_2024,
+  title = {{Neural Assets}: 3D-Aware Multi-Object Scene Synthesis with Image Diffusion Models},
+  author = {Ziyi Wu and
+            Yulia Rubanova and
+            Rishabh Kabra and
+            Drew A. Hudson and
+            Igor Gilitschenski and
+            Yusuf Aytar and
+            Sjoerd van Steenkiste and
+            Kelsey Allen and
+            Thomas Kipf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  year = {2024}
+}
+```
+
 ## Authors
 This code base is created by
 - [Wenlin Chen](https://wenlin-chen.github.io)

@@ -1,0 +1,54 @@
+# Python 3.11+ required
+
+# Core deep learning frameworks
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Diffusion models and vision transformers
+diffusers>=0.20.0
+transformers>=4.30.0
+timm>=0.9.0
+safetensors>=0.3.1
+
+# TensorFlow ecosystem - pinned versions for compatibility
+tensorflow-cpu==2.19.1
+tensorflow-datasets>=4.9.0
+tensorflow-graphics>=2021.12.0
+tensorflow-addons>=0.20.0
+
+# NumPy and ML types - pinned for TensorFlow 2.16 compatibility
+numpy>=2.0.0
+ml-dtypes==0.5.3
+
+# Image and visualization
+opencv-python-headless>=4.5.0
+pillow>=9.0.0
+matplotlib>=3.7.0
+mediapy>=1.2.0
+
+# Data processing and utilities
+einops>=0.6.0
+etils>=1.3.0
+scipy>=1.9.0
+
+# Additional dependencies
+absl-py>=1.0.0
+h5py>=3.10.0
+protobuf>=3.20.3,<5.0.0
+pyyaml>=5.1
+requests>=2.21.0
+tqdm>=4.27.0
+psutil>=5.7.0
+
+# Mesh processing (for tensorflow-graphics)
+trimesh>=2.37.22
+OpenEXR>=1.3.2
+
+# Jupyter notebook environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+ipywidgets>=8.0.0
+
+# PyTorch Lightning for trainer
+pytorch_lightning==2.6.0

@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+/sd/
+/tfds/
+/test_outputs/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Conda
+*.sh
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Checkpoints and logs
+checkpoints/
+logs/
+viz/
+*.log
+
+# Large model files
+*.ckpt
+*.pth
+*.safetensors
+*.bin
+.claude
+SETUP.md
+

